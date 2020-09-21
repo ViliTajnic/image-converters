@@ -5,8 +5,7 @@ These scripts can be uses as following:
 script_name.py "Input folder path" "Output folder path"
 
 Currently there are just two conversions defined:
-from EPS to PNG formats
-from JPEG to PNG formats.
+from EPS to PNG formats and from JPEG to PNG formats.
 
 It is capable of finding the correct image formats in a folder and then converting them to the requested image type to another folder defined.
 
