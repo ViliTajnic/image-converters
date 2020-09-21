@@ -1,5 +1,5 @@
 # image-converters
-Python script to convert images to different formats using Python Pillow
+Python script to convert images into different formats using Python Pillow
 
 These scripts can be uses as following:
 script_name.py "Input folder path" "Output folder path"
